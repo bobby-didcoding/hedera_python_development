@@ -18,13 +18,13 @@ This is a [Dockerized](https://www.docker.com/) app that uses the [Hedera](https
 Clone or pull from the main branch before you begin coding. Download the zip file if you do not have a GitHub Account.
 ```
 #option 1 - SSH
-git clone git@github.com:bobby-didcoding/hedera_python_development.git .
+git clone git@github.com:bobby-didcoding/hedera_python_development.git
 
 #option 2 - Github CLI
-gh repo clone bobby-didcoding/hedera_python_development .
+gh repo clone bobby-didcoding/hedera_python_development
 
 #option 3 - HTTPS
-git clone https://github.com/bobby-didcoding/hedera_python_development.git .
+git clone https://github.com/bobby-didcoding/hedera_python_development.git
 ```
 
 ***
