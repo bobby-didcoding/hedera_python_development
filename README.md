@@ -1,5 +1,4 @@
 # [Hedera](https://hedera.com/) [Python](https://python.org) Development
-This project has been developed to help you create and mint NFT's on the [Hedera](https://hedera.com/) network.
 
 This is a [Dockerized](https://www.docker.com/) app that uses the [Hedera](https://hedera.com/) [JAVA SDK](https://docs.hedera.com/guides/docs/sdks) with a [Python wrapper](https://pypi.org/project/hedera-sdk-py/). The aim is to get you up & running with [Python](https://python.org) with minimal effort.
 
